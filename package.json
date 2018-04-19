@@ -1,7 +1,7 @@
 {
-  "name": "wettflug-karte",
+  "name": "datamaps-example",
   "version": "1.0.0",
-  "description": "Weltkartengenerator für Hans Dominiks \"Wettflug der Nationen\"",
+  "description": "Creating maps with travel routes using Datamaps",
   "main": "src/app.js",
   "author": "Rainer Volz",
   "private": true,
